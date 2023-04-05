@@ -44,4 +44,4 @@ const item1 = document.getElementById('item1');
         console.log(`mouseX2:${mouseX1},mouseY2:${mouseY1}`);
     }
 
-    window.alert('Move the mouse to see the effects!');
+    window.alert('Move The Mouse or Touch the Screen to see the effects!');
